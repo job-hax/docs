@@ -8,7 +8,7 @@
 * [Project Schedule](project-schedule.md)
 * [Meeting Minutes](meeting-minutes.md)
 * [Functional Requirements](functional-requirements.md)
-* [Non-Functional Requirements\(PERFORMANCE/RELIABILITY\)](non-functional-requirements.md)
+* [Non-Functional Requirements](non-functional-requirements.md)
 * [Software Architecture](software-architecture.md)
 * [Security Component in Design](security-component-in-design.md)
 * [Use Case Details](use-case-details.md)
