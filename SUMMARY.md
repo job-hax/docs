@@ -12,7 +12,10 @@
 * [Software Architecture](software-architecture.md)
 * [Security Component in Design](security-component-in-design.md)
 * [Use Case Details](use-case-details.md)
+
 * [UML Use-Cases Diagrams](uml-use-cases-diagrams.md)
 * [UML Class Diagrams](uml-class-diagrams.md)
 * [System Design Overview](system-design-overview.md)
+* [Glossary](book/glossary.md)
+* [References](book/references.md)
 
