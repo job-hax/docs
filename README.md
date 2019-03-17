@@ -1,3 +1,3 @@
-![](./assets/images/Misc_files/board.png)
+![](./assets/images/misc/board.png)
 
 [JobHax](https://jobhax.com/) All rights reserved.
