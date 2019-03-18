@@ -9,6 +9,7 @@
 * [Meeting Minutes](meeting-minutes.md)
 * [Functional Requirements](functional-requirements.md)
 * [Non-Functional Requirements](non-functional-requirements.md)
+* [Quality & Assurance](qa.md)
 * [Software Architecture](software-architecture.md)
 * [Security Component in Design](security-component-in-design.md)
 * [Use Case Details](use-case-details.md)
