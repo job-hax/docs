@@ -1,13 +1,9 @@
-# Introduction
-
-![](/assets/images/0_0.png)
-
 # Welcome to best Job tracking and performance platform!
 
 No more messy spreadsheets or digging through emails to see the status of your job applications!
 Improve your job search experience in a seamless & intuitive way.
 
-![Alt text](/images/header.png?raw=true "Unique features")
+![](/assets/images/0_0.png)
 
 ### 1. Apply to jobs & have them all automatically tracked
 Anytime you apply for a job, we track it automatically! When we see job application emails in your inbox, we add it to your jobs dashboard. Of course, you can also manually add jobs you are interested in to have it tracked.
