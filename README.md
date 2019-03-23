@@ -1,6 +1,6 @@
 # Introduction
 
-![](.gitbook/assets/images/0_0.png)
+![](/assets/images/0_0.png)
 
 # Welcome to best Job tracking and performance platform!
 
