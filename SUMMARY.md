@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](book/0.introduction.md)
+* [Introduction](/book/0.introduction.md)
 * [Vision](book/0.vision.md)
 * [UML Activity Diagram](book/5.uml_activity.md)
 * [UML Sequence Diagram](book/6.uml_sequence.md)
