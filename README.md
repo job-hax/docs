@@ -1,15 +1,21 @@
 # Introduction
 
-![](.gitbook/assets/board.png)
+![](.gitbook/assets/images/0_0.png)
 
-Millions of people apply for new job positions every day in any where all over the world. Most of people are not able to follow up this process because of non-centralized and unorganized information. Many candidates even do not remember, they have already applied to job positions rather than preparing interviews and job requirements.
-  
-Having problem about following up job search process and also stick with ongoing interview process because lack of centralized information. Often times users end up going to multiple locations to apply to jobs and dig through emails to find related information.
-  
-When people have applied to many positions, it is difficult to appropriately organize and schedule upcoming events. People usually forget and be unprepared about job requirements, company values, etc. 
-  
-People struggle to network with the right people who are willing to help & find relevant information to assist them prepare for upcoming interviews. This platform which allows to users to successfully land their next job by better organizing, tracking, and assisting throughout the job hiring process.
+# Welcome to best Job tracking and performance platform!
 
+No more messy spreadsheets or digging through emails to see the status of your job applications!
+Improve your job search experience in a seamless & intuitive way.
 
-[JobHax](https://jobhax.com/) All rights reserved.
+![Alt text](/images/header.png?raw=true "Unique features")
 
+### 1. Apply to jobs & have them all automatically tracked
+Anytime you apply for a job, we track it automatically! When we see job application emails in your inbox, we add it to your jobs dashboard. Of course, you can also manually add jobs you are interested in to have it tracked.
+
+### 2. See your progression & organize your job search
+Once you have applied to jobs you are interested in, we want you to easily visualize and organize your job search. You can quickly see the status of all your job applications, add new information, keep all your contacts & relevant details like dates, tasks, salaries, etc. linked to your job card.
+
+### 3. Get metrics & analytics on your job search
+As you progress through your job search, we make it easy to identify problem areas so that you can constantly make improvements. For example, we can provide you with metrics on common attributes (skills, position, experience, etc.) among jobs which you are being rejected for so you can make changes to your resume.
+
+Please, visit https://docs.jobhax.com for most uptodate documentation.
