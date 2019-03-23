@@ -1,2 +1,0 @@
-# Security Component in Design
-
