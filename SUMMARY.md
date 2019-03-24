@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](1.introduction.md)
 * [Vision](2.vision.md)
 * [Backend REST API](3.backend_api.md)
 * [Database Structure](4.database_structure.md)
