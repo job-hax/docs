@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Introduction](0.introduction.md)
-* [Vision](vision.md)
+* [Vision](2.vision.md)
 * [Backend REST API](3.backend_api.md)
 * [Database Structure](4.database_structure.md)
 * [UML Activity Diagram](5.uml_activity.md)
