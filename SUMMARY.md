@@ -9,6 +9,7 @@
 * [UML Sequence Diagram](6.uml_sequence.md)
 * [UML Collaboration Diagram](7.uml_collaboration.md)
 * [UML State Diagram](8.uml_state.md)
-* [UML Component Diagram](10.uml_component.md)
 * [UML Class Diagram](9.uml_class.md)
+* [UML Component Diagram](10.uml_component.md)
+
 
