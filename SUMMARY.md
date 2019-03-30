@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](1.introduction.md)
+* [Introduction](README.md)
 * [Vision](2.vision.md)
 * [Backend REST API](3.backend_api.md)
 * [Database Structure](4.database_structure.md)
@@ -10,5 +10,5 @@
 * [UML State Diagram](8.uml_state.md)
 * [UML Class Diagram](9.uml_class.md)
 * [UML Component Diagram](10.uml_component.md)
-
+* [Contribution Process](contribution-process.md)
 
